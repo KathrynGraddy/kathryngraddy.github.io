@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Website for Kathryn Graddy
 
 url: https://kgraddy.github.io # the base hostname & protocol for your site, e.g. http://example.com
-github_username: bdlebaron 
+github_username: kathryngraddy
 
 # Build settings
 theme: minima
